@@ -1,8 +1,8 @@
 class Carrier < Formula
   desc "Autonomous epic orchestrator: ships and reviews Solve epics with AI agents"
   homepage "https://github.com/AshuLab/carrier"
-  url "https://registry.npmjs.org/@ashulab/carrier/-/carrier-0.5.0.tgz"
-  sha256 "21f861b2260257cb63cac1fa0fac8e8e0ba1e5b75d6f364d2c5a871b4400ca05"
+  url "https://registry.npmjs.org/@ashulab/carrier/-/carrier-0.6.0.tgz"
+  sha256 "d7dd7b5b9b09dd5ef2c11615e54f8587cfa71f9faf6feee281a2a5d742f15f11"
   license "MIT"
 
   depends_on "gh"
