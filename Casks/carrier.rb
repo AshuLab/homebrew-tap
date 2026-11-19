@@ -1,6 +1,6 @@
 cask "carrier" do
-  version "0.14.0"
-  sha256 "9235d451dcc537f47753ea0de1a41549704b19362d41c25bba5d3241ce275027"
+  version "0.14.1"
+  sha256 "0142454094c1d86b7bf12b2cf06fed70a2999476b4cbd4802817b40fe58c260b"
 
   url "https://github.com/AshuLab/carrier/releases/download/v#{version}/Carrier-#{version}.zip"
   name "Carrier"
