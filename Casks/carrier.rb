@@ -1,12 +1,12 @@
 cask "carrier" do
-  version "0.19.0"
+  version "0.20.0"
 
   on_arm do
-    sha256 "d260440f883e52ec5afa1f36e9cf109a8f468b4f9d371d7aff34b7765e6faefc"
+    sha256 "f521ed1a56b824de430b40e65a2a242aaef4ce6b131fed62f51f519d280f11f2"
     url "https://github.com/AshuLab/carrier/releases/download/v#{version}/Carrier-#{version}.zip"
   end
   on_intel do
-    sha256 "645afeee36213e868501ea00748de57cfada8c0624473895e433c4fa61c684fb"
+    sha256 "67afc7e638b8482dad0cab51e73e259b74df48b836bd04cb732d010a17da78a5"
     url "https://github.com/AshuLab/carrier/releases/download/v#{version}/Carrier-#{version}-intel.zip"
   end
 
